@@ -1,0 +1,6 @@
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\Latihan\bin\Debug\Latihan.exe.config
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\Latihan\bin\Debug\Latihan.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\Latihan\bin\Debug\Latihan.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\Latihan\obj\Debug\Latihan.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\Latihan\obj\Debug\Latihan.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\Latihan\obj\Debug\Latihan.csprojResolveAssemblyReference.cache

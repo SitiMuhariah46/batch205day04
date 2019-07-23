@@ -1,0 +1,6 @@
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caSimpleArraySum\bin\Debug\caSimpleArraySum.exe.config
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caSimpleArraySum\bin\Debug\caSimpleArraySum.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caSimpleArraySum\bin\Debug\caSimpleArraySum.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caSimpleArraySum\obj\Debug\caSimpleArraySum.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caSimpleArraySum\obj\Debug\caSimpleArraySum.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caSimpleArraySum\obj\Debug\caSimpleArraySum.csprojResolveAssemblyReference.cache

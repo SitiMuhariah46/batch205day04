@@ -1,0 +1,5 @@
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caDay04\bin\Debug\caDay04.exe.config
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caDay04\bin\Debug\caDay04.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caDay04\bin\Debug\caDay04.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caDay04\obj\Debug\caDay04.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day04\sLatihanDay04\caDay04\obj\Debug\caDay04.pdb
